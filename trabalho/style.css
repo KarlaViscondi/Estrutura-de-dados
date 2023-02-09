@@ -1,0 +1,31 @@
+body {
+    margin: auto;
+    width: 400px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    
+}
+
+h1 {
+    color:hotpink;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#principal {
+    background-color: antiquewhite;
+    padding: 25px;
+    border-color: blueviolet;
+    border-style: outset;
+    border-radius: 10em;
+    background-image: url("https://datapolicy.co/wp-content/uploads/2021/07/DataPolicy-Tecnologia-e-dados-publicos.jpg");
+    background-position: center;
+}
+
+.botao {
+    border-color: aquamarine;
+    border-style: groove;
+    border-radius: 10em;
+}
